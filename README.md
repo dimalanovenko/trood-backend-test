@@ -1,6 +1,12 @@
 # Trood Front Hackathon API
 
-This repository contains a simple project management API built with Go and Gin framework. Swagger documentation is included.
+This is a project management API built with Go and the Gin framework. Swagger documentation is available online.
+
+## Deployment
+
+The API is deployed and available here:
+
+🔗 https://trood-backend-test.onrender.com
 
 ## Prerequisites
 Ensure the following are installed on your system:
@@ -28,4 +34,9 @@ go run main.go
 The server will start on http://localhost:8080.
 
 ## Swagger Documentation
-Open your browser and navigate to: http://localhost:8080/swagger/index.html.
+
+Online:
+🔗 https://trood-backend-test.onrender.com/swagger/index.html
+
+For local setup: 
+http://localhost:8080/swagger/index.html.
