@@ -1,4 +1,4 @@
-# Trood Front Hackathon API
+# Trood Backend Hackathon API
 
 This is a project management API built with Go and the Gin framework. Swagger documentation is available online.
 
